@@ -31,7 +31,7 @@
                 username: username.value,
                 password: password.value
             }),
-            headers: { 'Content-type' : 'application/json;'},
+            headers: { 'Content-type' : 'application/json'},
         })
         .then(response=>response.json());
         alert('Successfully created user!');
