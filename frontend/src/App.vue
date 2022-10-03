@@ -9,7 +9,6 @@
         <RouterLink to="/schedules">Schedules</RouterLink>
         <RouterLink to="/groups">Groups</RouterLink>
         <RouterLink to="/teams">Teams</RouterLink>
-        <RouterLink to="/fantasy">Fantasy</RouterLink>
         <div class="login">
           <RouterLink to="/signin">sign in</RouterLink>
           <RouterLink to="/login">login</RouterLink>

@@ -39,11 +39,6 @@ const router = createRouter({
       component: ()=>import('../views/Teams.vue')
     },
     {
-      path: '/fantasy',
-      name: 'fantasy',
-      component: ()=>import('../views/Fantasy.vue')
-    },
-    {
       path: '/signin',
       name: 'signin',
       component: ()=>import('../views/SignIn.vue')
